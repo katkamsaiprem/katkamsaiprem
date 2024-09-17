@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katkamsaiprem
 - 👀 I’m interested in c++,c#
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning game development And Web development
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me ...
 
